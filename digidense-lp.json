@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swagger-470910",
+  "private_key_id": "f790400b9a3768a5120e60264329747aad0528ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8Olji4TZHzyzU\n84GnknNfZjnxwe+gH+udtpWNO2dU26mZ0+8U9QzIWOOzHO+qJYDZX015BKUMeIOZ\nhJOq1s11O56SSIpdRzBLhWA3P3m1SU2uvAjDOxs7b1ukmoO2o3bw+uTyzbVR2A3a\nHf7DfkMRIl8/or8zMi9e9D213evKPr6Y6GDI8O21yEmxodbibGHUyTpiRAia3+SD\nZizoaUybmYiw+LkFZbvoZr7rb4Ewbn+USTYVQeLHVxQI4cQRX/e44oydH/ECAU+k\ndydiVYZgav4avFsK1N9rOyS7KlvjoE943dMwXJuN3FDsFe5lVrcY+fDKnIQEWwkX\nomj71/pHAgMBAAECggEABpwQkvxQPk/1cGTnS03Gj2BfmIW0NxiShYSWgScc3HX6\nNqn33fHc87bAstbJSQhCxgn6sSKLSSzSMjSIRZoqt3soeP/jG/NsAWWQQ2BkkwvH\n6+LedpHqGuQw1k7hYSshpMSqqtFeafP+8zHVHbhJUp4KX4mvfR9or8TpMIG3ze+R\nVMEB4dmdNNO5g+2IO4u/F2AD323esSr7Lvk0bWHlEHQAkyiXm07jFr1S92GJjvV2\nfVbl9h0b+NUv29NQhM2gIP2+cWOWcazdDnGR91YleHdJ9XGe54widwi/wdSW+fe8\njfNMlSGxu3Ox0FM3IOMKTegiL/Iz1vOuT6KhgUF3AQKBgQDpr1PSpCHEX7tpk7bV\ndal6KVrm1Faa9AiEKCo4ENbhM7zXi3Af118u/kZCVuzljlJTTnBkrNokOGRxj81q\nwrE+6Ul1q/j366Ab5SzvZhi3q7L9K8+OZRwxxStvXegQT0GkUE6P6PcUEbs7QH8A\ncywb4bWSoh5TxzKBwW6S6wSXEQKBgQDOM8bWzJ1uVHap3tb27CufPS4wBPuUUmjW\ny3gXtMFQJnuTk3UCWYClzLaxc6zsQ5dD/SoG1rXTQWVbdqZn1GB0JPhftxTlhFyY\n1IENKxgVKfSLh+O2kOpKN/J5v9phsP2JAWtiYM16wAyfwPtBJFqahGs3lg7S9zRm\n7kYZ3Elr1wKBgCk9pf9ws/ziIEMbrJKzdzt1/PLr2nTySGZ6aCkI38NSzCsGEr2r\n1sKGYYPnr1s76M+G8lLyJnVp9mAMTuZegcVmim5X8VJfpRwHMAz36bjQdoAzsSei\nNH2cHHRFEGWAd0c2XQcMyD4kevSUB1Xe/ZPWG6NLNSr35rP7nTYUf/ThAoGARgp2\nTv3/t7s+92J3GDaOdq98Ydk/b1kyvUstxreiNkxsC2u6AgtO1IKdx9bn9PTci76R\nqPMDnfeHqzK5QWl1Pd5U84YntfJo1YzRLRznOEEhDMgixB+jRYSNe2d8kVRiOkhe\nJnOFOF3Fq/oMHktv7y5tkNsKvAQ2K4RiEWSvF88CgYBtHegxh3Rxly0dhwshugAu\nIz3DVdajlwcdvcRVx2ZLvUFWSYCCcLxiEnuGFkPiti/tip8g6nnkV67PKZsbHqXr\n1N7HINVego3BW7g1HipmAZQFMLxfFweu1wegOJUkDgOW4RxtPoqxo4wDnTQAKUAX\nBsIhyNNDYhfPM0Jrwn+zxg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "swagger-sa@swagger-470910.iam.gserviceaccount.com",
+  "client_id": "115474569347356682995",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swagger-sa%40swagger-470910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
